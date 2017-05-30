@@ -12,3 +12,5 @@ fi
 
 # Customize to your needs...
 source /etc/profile.d/vte.sh
+
+unsetopt HIST_VERIFY # immediately execute commands with history substitution
