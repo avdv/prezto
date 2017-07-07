@@ -32,6 +32,8 @@ zstyle ':prezto:load' pmodule \
   'editor' \
   'history' \
   'directory' \
+  'git' \
+  'python' \
   'spectrum' \
   'utility' \
   'command-not-found' \
