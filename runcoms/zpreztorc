@@ -34,6 +34,7 @@ zstyle ':prezto:load' pmodule \
   'directory' \
   'git' \
   'python' \
+  'ruby' \
   'spectrum' \
   'utility' \
   'command-not-found' \
